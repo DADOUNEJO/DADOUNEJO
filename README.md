@@ -1,7 +1,7 @@
 - 👋 Hello 
-- 👀 I’m Fatima Ezzahra Dadoune , you can call me FATIJO , I'm a Business Intelligence student and I'm interested in Deep Learning  
+- 👀 I’m Fatima Ezzahra Dadoune , you can call me FATIJO , I'm a Business Intelligence student and I'm interested in data science 
 - 💞️ I have software engineering background, seeking out innovative solutions to everyday problems.
-- 🌱 I’m currently learning Deep Learning.
+- 🌱 I’m currently learning Deep Learning and data science.
 - 📫 How to reach me and know more about my works via my portfolio DADOUNEJO , well right now it's under constructions for it's last phase.
 
 <!---
